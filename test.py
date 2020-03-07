@@ -8,4 +8,6 @@ def sum(n):
   #   total += i
   return total
 
+print(123)
+
 print(sum(10))
